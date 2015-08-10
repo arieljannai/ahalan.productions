@@ -1,6 +1,6 @@
 body {
   background-color: #f2f2f2;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Alef', 'EB Garamond', serif;
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -11,7 +11,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Alef', 'Oswald', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -19,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Paragraph & Typographic */
 p {
-    line-height: 28px;
-    margin-bottom: 25px;
+    /*line-height: 28px;*/
+    /*margin-bottom: 25px;*/
     font-size: 20px;
 }
 
