@@ -119,17 +119,16 @@ img {
 
 span.avoidwrap { display:inline-block; }
 
-
-@media screen and (max-device-width : 320px)
+@media screen and (max-device-width : 389px)
 {
   .header-text p{
     font-weight: bold;
-    font-size: 3em;
+    font-size: 4em;
   }
 
   .social-icon {
-    width: 40px;
-    height: 40px;
+    width: 43px;
+    height: 43px;
   }
 
   #credits-cr {
@@ -142,16 +141,16 @@ span.avoidwrap { display:inline-block; }
   }
 }
 
-@media screen and (max-device-width : 389px)
+@media screen and (max-device-width : 320px)
 {
   .header-text p{
     font-weight: bold;
-    font-size: 4em;
+    font-size: 3em;
   }
 
   .social-icon {
-    width: 43px;
-    height: 43px;
+    width: 40px;
+    height: 40px;
   }
 
   #credits-cr {
