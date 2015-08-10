@@ -13,8 +13,12 @@ body {
   /*overflow: hidden;*/
   padding: 0;
   text-align: center;
-  position: fixed;
-  overflow: hidden;
+}
+
+body.modal-open {
+    overflow: hidden;
+    position:fixed;
+    width: 100%;
 }
 
 body:before {
